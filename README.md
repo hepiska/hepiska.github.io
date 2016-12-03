@@ -5,3 +5,4 @@
 >web site ini menggunakan syntaxes2 standar HTML dan CSS
 * about me :  
 >nama saya hepiska franatagola saat ini sedang mengikuti cooding bootcamp i hacktiv8 saya berharap setelah lulus dati hacktiv8 saya bisa menjadi full stack developer javascript yang handal,
+* future plan : website ini akan terus berkembang seiring bertambahnya pengetahuan saya saat belajar di hacktiv8
